@@ -16,7 +16,7 @@ var bmi_john=john_mass/(john_hieght*john_hieght);
 var mark_is_higher=bmi_mark>bmi_john;
 console.log('Is mark\'s BMI higher than john = '+mark_is_higher);
 //challenge 2
-var team_1=(78+88+55+33+56+43);
+var team_1=(78+38+55+23+26+43);
 var team_2=(34+59+65+12+67+33);
 var team_1_avg=team_1/6;
 var team_2_avg=team_2/6;
