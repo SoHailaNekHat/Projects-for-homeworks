@@ -7,6 +7,7 @@
 // var name='SoHaila';
 // console.  log(`${name}hello`);
 //Challenge 1
+/*
 var mark_mass=75;
 var mark_hieght=1.80;
 var john_mass=80;
@@ -28,4 +29,16 @@ if((team_mary_avg>team_2_avg) && (team_mary_avg)){
   compare=true;
 }
 else{ compare=false;}
-console.  log('Is mary\'s team is the owner? \n '+compare);
+console.  log('Is mary\'s team is the owner? \n '+compare);*/
+//lesson hoisting practice
+calculateAge(1997);
+function calculateAge(year){
+  console.  log(2022-year);
+
+}
+ 
+
+var retirement=function(year){
+  console.  log(65-(2018-year));
+}
+retirement(1990);
